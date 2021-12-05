@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grejty&show_icons=true&locale=en&layout=compact&theme=dark&hide=Rich%20Text%20Format&langs_count=10" alt="grejty" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grejty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grejty&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
