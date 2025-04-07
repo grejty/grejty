@@ -9,22 +9,6 @@
 <div id="user-content-toc">
   <ul align="left" style="list-style: none;">
     <summary>
-      <h1>🔧 Technologies & Tools</h1>
-      <div class="badges-intro" align="center">
-        <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-        <code><img width="10%" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg"></code>
-        <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-        <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-        <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg"></code>
-        <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-      </div>
-    </summary>
-  </ul>
-</div>
-
-<div id="user-content-toc">
-  <ul align="left" style="list-style: none;">
-    <summary>
       <h1>📈 GitHub Stats</h1>
         <div class="badges-githubstats">
           <p align="center">
